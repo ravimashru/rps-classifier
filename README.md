@@ -6,6 +6,8 @@ A rock-paper-scissors classifier built using fast.ai while reading chapter 2 of 
 
 View it live [here](https://mybinder.org/v2/gh/ravimashru/rps-classifier/HEAD?urlpath=voila%2Frender%2Fwebapp.ipynb).
 
+⚠️ Full disclosure: the predictions it makes aren't great. See the **Lessons learnt** section below to know why.
+
 *Note: the app might take a few minutes to start; please be patient.* 🧘
 
 ## Dataset
